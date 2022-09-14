@@ -1,3 +1,7 @@
+# Submission Details
+Elastic Beanstalk Link: http://image-filter-dev222.us-east-1.elasticbeanstalk.com/
+Note: Please do not try to send images with high resolution, for some reason the Jimp library fails to get high res images(try testing with http://pm1.narvii.com/7119/b0abdf491cffde4bdf95850956c1b15a5591a4b5r1-712-707v2_uhq.jpg)
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
